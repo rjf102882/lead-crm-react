@@ -1,0 +1,17 @@
+{
+  "name": "lead-crm",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite --host --port=3000",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
